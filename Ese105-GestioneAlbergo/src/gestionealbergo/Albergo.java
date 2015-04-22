@@ -15,7 +15,5 @@ public class Albergo
 	public Vector<Camera> getCamera()
 	{
 		return camera;
-	}
-	
-	
+	}	
 }
