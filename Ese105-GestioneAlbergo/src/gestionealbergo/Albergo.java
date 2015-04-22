@@ -4,9 +4,18 @@ import java.util.Vector;
 
 public class Albergo
 {
-	
-	public Vector getCamere()
+	private Vector<Camera>camera;	
+
+	public Albergo(Vector<Camera> camera) 
 	{
-		return camere;
+		super();
+		this.camera = camera;
 	}
+
+	public Vector<Camera> getCamera()
+	{
+		return camera;
+	}
+	
+	
 }
