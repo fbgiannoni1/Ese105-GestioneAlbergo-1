@@ -1,6 +1,5 @@
 package gestionealbergo;
 
-public class Prenotazione
-{
-	
+public class Prenotazione {
+
 }
